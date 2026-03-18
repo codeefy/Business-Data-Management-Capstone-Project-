@@ -12,3 +12,24 @@
 > *A data-driven investigation into inventory, logistics, and spoilage challenges at a B2B spice trading company in Shahjahanpur, Uttar Pradesh.*
 
 ---
+
+**Submitted by:** Rohit Raj &nbsp;|&nbsp; **Roll No:** MSE25004 &nbsp;|&nbsp; **Period:** Sept 2025 – Dec 2025
+
+</div>
+
+---
+## 📋 Table of Contents
+
+- [Project Overview](#-project-overview)
+- [Problem Statements](#-problem-statements)
+- [Methodology & Workflow](#-methodology--workflow)
+- [Dataset Structure](#-dataset-structure)
+- [Key Findings](#-key-findings)
+- [ABC Classification](#-abc-classification)
+- [Seasonal Trends](#-seasonal-trends)
+- [Transport Analysis](#-transport-analysis)
+- [Recommendations](#-recommendations)
+- [Repository Structure](#-repository-structure)
+- [Tools Used](#-tools-used)
+
+---
