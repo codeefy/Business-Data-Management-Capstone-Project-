@@ -68,4 +68,10 @@ This project applies **data analytics** to study these inefficiencies and propos
 4. **Profitability Trends**  
    - November → Highest profit (₹1,00,000+).  
    - December → Lowest due to seasonal dip.  
-   - Recovery in Jan–Feb; decline again in Mar–Apr due to spoilage  
+   - Recovery in Jan–Feb; decline again in Mar–Apr due to spoilage
+
+## 💡 Recommendations  
+
+1. **Inventory Diversification**  
+   - Promote low-performing spices via **combo packs, shelf placement, targeted marketing**.  
+   - Bundle high-demand items with underperformers.  
