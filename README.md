@@ -92,4 +92,14 @@ This project applies **data analytics** to study these inefficiencies and propos
 Through systematic data-driven analysis, the project identified the **three main challenges** of Mahak Spices:  
 - Overdependence on Turmeric & Red Chilli  
 - Fluctuating transport costs  
-- Summer spoilage of perishable spices  
+- Summer spoilage of perishable spices
+
+
+By implementing the recommended strategies, Mahak Spices can:  
+- **Reduce losses from spoilage**  
+- **Stabilize transport expenses**  
+- **Diversify revenue streams**  
+
+Ultimately, this approach positions the company for **long-term sustainable growth** in the competitive spice trading market.  
+
+---
