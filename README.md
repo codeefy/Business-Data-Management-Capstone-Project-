@@ -49,3 +49,12 @@ Despite its strong local presence, three key operational challenges limit the co
 ```
 
 ---
+## 🎯 Problem Statements
+
+| # | Problem | Impact |
+|---|---------|--------|
+| 1 | **Overdependence on Turmeric & Red Chilli** (~76% of revenue) | Revenue risk, idle inventory for slow-movers |
+| 2 | **Fluctuating Transportation Costs** (₹0 – ₹331/day, mean ₹103) | Unpredictable margins, no logistics baseline |
+| 3 | **Spice Spoilage in Summer (Mar–Apr)** | Sharp Red Chilli sales drop, direct profit loss |
+
+---
