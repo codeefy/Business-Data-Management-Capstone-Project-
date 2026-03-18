@@ -264,3 +264,13 @@ flowchart TD
 ```
 
 ---
+## 🛠️ Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white) | Data cleaning, formatting, structuring |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | Statistical analysis & visualisations |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | Data manipulation, feature engineering |
+| ![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=flat) | Heatmaps, regression plots |
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) | Line charts, bar charts, pie charts |
+| ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) | Notebook execution & sharing |
