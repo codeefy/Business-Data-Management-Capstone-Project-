@@ -245,4 +245,22 @@ flowchart TD
 
 ---
 
+## 📂 Repository Structure
 
+```
+📦 mahak-spices-bdm-capstone/
+├── 📊 Dataset.xlsx                    # Cleaned dataset (129 days · 23 columns)
+├── 📓 BDM_Data_Analysis.ipynb         # Full Python analysis notebook
+├── 📄 Final_Report_22f3001013.pdf     # Complete final report
+├── 📋 README.md                       # This file
+└── 📁 figures/
+    ├── fig1_revenue_pie.png
+    ├── fig2_abc_classification.png
+    ├── fig3_monthly_sales_trend.png
+    ├── fig4_qty_vs_transport_scatter.png
+    ├── fig5_monthly_transport_cost.png
+    ├── fig6_daily_transport_stats.png
+    └── fig7_correlation_heatmap.png
+```
+
+---
