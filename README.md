@@ -33,3 +33,19 @@
 - [Tools Used](#-tools-used)
 
 ---
+## 🏢 Project Overview
+
+**Mahak Spices** is a B2B wholesale spice trading business,supplying a wide variety of spices to local retailers and small businesses.
+
+Despite its strong local presence, three key operational challenges limit the company's profitability and long-term scalability:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│               THREE CORE OPERATIONAL CHALLENGES             │
+├─────────────────┬──────────────────┬────────────────────────┤
+│📦 Overdependence │ 🚛 Transport Costs │ ☀️ Summer Spoilage│
+│  on few spices   │   fluctuating    │   of Red Chilli       │
+└─────────────────┴──────────────────┴────────────────────────┘
+```
+
+---
