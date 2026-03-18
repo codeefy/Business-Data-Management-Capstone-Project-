@@ -213,5 +213,36 @@ flowchart LR
 | Apr | Slight decline |
 
 ---
+## 💡 Recommendations
+
+```mermaid
+flowchart TD
+    P1[📦 Problem 1\nOverdependence] --> R1A[🎁 Bundle slow spices\nwith Turmeric / Red Chilli]
+    P1 --> R1B[📢 Targeted marketing\nfor Dhaniya in Mar–Apr]
+    P1 --> R1C[📊 Track emerging demand\nwith monthly trend review]
+
+    P2[🚛 Problem 2\nFluctuating Transport] --> R2A[📝 Long-term vendor\ncontracts with fixed rates]
+    P2 --> R2B[🗺️ Route optimisation\nGoogle Maps · Routific]
+    P2 --> R2C[📏 Define Transport KPIs\ncost/kg · cost/order]
+
+    P3[☀️ Problem 3\nSummer Spoilage] --> R3A[❄️ Temperature-controlled\nstorage & insulated bags]
+    P3 --> R3B[📉 Reduce Red Chilli orders\nin Mar–Apr using forecasting]
+    P3 --> R3C[🏷️ Dynamic pricing for\nnear-expiry stock]
+
+    style P1 fill:#1d3557,color:#fff
+    style P2 fill:#1d3557,color:#fff
+    style P3 fill:#1d3557,color:#fff
+    style R1A fill:#2d6a4f,color:#fff
+    style R1B fill:#2d6a4f,color:#fff
+    style R1C fill:#2d6a4f,color:#fff
+    style R2A fill:#2d6a4f,color:#fff
+    style R2B fill:#2d6a4f,color:#fff
+    style R2C fill:#2d6a4f,color:#fff
+    style R3A fill:#2d6a4f,color:#fff
+    style R3B fill:#2d6a4f,color:#fff
+    style R3C fill:#2d6a4f,color:#fff
+```
+
+---
 
 
