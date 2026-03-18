@@ -87,3 +87,9 @@ This project applies **data analytics** to study these inefficiencies and propos
    - Apply **dynamic pricing** for near-expiry stock to accelerate turnover.  
 
 ---
+
+## 📌 Conclusion  
+Through systematic data-driven analysis, the project identified the **three main challenges** of Mahak Spices:  
+- Overdependence on Turmeric & Red Chilli  
+- Fluctuating transport costs  
+- Summer spoilage of perishable spices  
