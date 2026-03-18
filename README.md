@@ -95,3 +95,24 @@ flowchart TD
 ```
 
 ---
+## 🗄️ Dataset Structure
+
+The dataset spans **129 business days** (Nov 2024 – Apr 2025) with the following schema:
+
+| Column | Type | Description |
+|--------|------|-------------|
+| `Date` | datetime | Business day |
+| `Turmeric_sold(kg)` | float | Daily quantity sold (kg) |
+| `RedChilli_sold(kg)` | float | Daily quantity sold (kg) |
+| `Dhaniya_sold(kg)` | float | Daily quantity sold (kg) |
+| `CarmonSeeds(Ajwain)_sold(kg)` | float | Daily quantity sold (kg) |
+| `Cumin(Jeera)_sold` | float | Daily quantity sold (kg) |
+| `Fennel(Sauf)_sold` | float | Daily quantity sold (kg) |
+| `*_cost_per_kg` | float | Purchase cost per kg for each spice |
+| `*_revenue` | float | Daily revenue per spice (qty × selling price) |
+| `Total_Sales` | float | Sum of all spice revenues per day |
+| `Total_Purchase` | float | Sum of all purchase costs per day |
+| `Total_Profit` | float | Total_Sales − Total_Purchase |
+| `Transport` | float | Daily logistics cost (₹) |
+
+---
