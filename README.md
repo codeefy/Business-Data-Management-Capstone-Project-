@@ -103,3 +103,10 @@ By implementing the recommended strategies, Mahak Spices can:
 Ultimately, this approach positions the company for **long-term sustainable growth** in the competitive spice trading market.  
 
 ---
+
+## 📂 References  
+- Proposal Report  
+- Midterm Report  
+- Final Report  
+- Presentation Slides
+- Professor Guidance 
