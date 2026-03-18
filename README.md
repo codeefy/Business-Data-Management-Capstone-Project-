@@ -116,3 +116,19 @@ The dataset spans **129 business days** (Nov 2024 – Apr 2025) with the followi
 | `Transport` | float | Daily logistics cost (₹) |
 
 ---
+## 📈 Key Findings
+
+### Revenue Distribution
+
+```
+Turmeric     ████████████████████░░░░░░░░░░░░░░  42.4%  (~₹9,00,000)
+Red Chilli   ████████████████░░░░░░░░░░░░░░░░░░  33.3%  (~₹7,06,840)
+Dhaniya      ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░  15.5%  (~₹3,29,009)
+Cumin        ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   6.0%  (~₹1,27,358)
+Ajwain       █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   2.1%  (~₹44,575)
+Fennel       ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%  (~₹16,981)
+```
+
+> ⚠️ **Turmeric + Red Chilli = 75.7% of total revenue** — a significant concentration risk.
+
+---
