@@ -20,3 +20,31 @@ This project applies **data analytics** to study these inefficiencies and propos
    - Red Chilli highly perishable; sales drop sharply during March–April due to heat-related spoilage.  
 
 ---
+## 🔬 Methodology  
+
+### 1. Data Collection  
+- Daily transactional data (Nov 2024 – Apr 2025):  
+  - Sales & purchases  
+  - Quantity sold per spice  
+  - Cost per kg  
+  - Daily transport costs  
+
+### 2. Data Cleaning & Structuring  
+- Missing values replaced with zero  
+- Standardized column headers & formats  
+- Duplicate/incorrect entries removed  
+- Feature engineering: Revenue, Profit, Total Daily Profit  
+
+### 3. Analysis Techniques  
+- **Descriptive Statistics:** Mean, Std. Deviation, Skewness  
+- **Correlation Analysis:** Heatmaps & Pearson coefficients  
+- **ABC Classification:** Categorizing spices into A (high), B (moderate), C (low) revenue groups  
+- **Trend & Seasonality Analysis:** Monthly sales line charts  
+- **Profitability & Transport Analysis:** Scatter plots, monthly breakdown  
+
+### 4. Tools Used  
+- **Excel:** Data cleaning, structuring, initial calculations  
+- **Python (Pandas, Matplotlib, Seaborn):** Statistical analysis, advanced visualizations  
+
+---
+
