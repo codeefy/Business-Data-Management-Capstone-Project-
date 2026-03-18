@@ -74,4 +74,9 @@ This project applies **data analytics** to study these inefficiencies and propos
 
 1. **Inventory Diversification**  
    - Promote low-performing spices via **combo packs, shelf placement, targeted marketing**.  
-   - Bundle high-demand items with underperformers.  
+   - Bundle high-demand items with underperformers.
+
+2. **Transport Optimization**  
+   - Secure **long-term vendor contracts** with fixed pricing.  
+   - Use **route optimization tools** (Google Maps, Routific) to batch deliveries.  
+   - Define & track **transport KPIs** (cost per kg, cost/order).  
