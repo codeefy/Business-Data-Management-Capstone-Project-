@@ -79,4 +79,11 @@ This project applies **data analytics** to study these inefficiencies and propos
 2. **Transport Optimization**  
    - Secure **long-term vendor contracts** with fixed pricing.  
    - Use **route optimization tools** (Google Maps, Routific) to batch deliveries.  
-   - Define & track **transport KPIs** (cost per kg, cost/order).  
+   - Define & track **transport KPIs** (cost per kg, cost/order).
+
+3. **Spoilage Reduction**  
+   - Adjust summer inventory for Red Chilli.  
+   - Invest in **temperature-controlled storage/insulated bags**.  
+   - Apply **dynamic pricing** for near-expiry stock to accelerate turnover.  
+
+---
