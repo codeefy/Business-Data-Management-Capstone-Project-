@@ -162,4 +162,26 @@ graph LR
 - **Category C** → Reduce stock levels, explore bundling with A/B items, reassess pricing
 
 ---
+## 📅 Seasonal Trends
+
+```mermaid
+xychart-beta
+    title "Monthly Sales Trend by Spice (Quantity Sold kg)"
+    x-axis [Nov, Dec, Jan, Feb, Mar, Apr]
+    y-axis "Quantity Sold (kg)" 0 --> 1500
+    line [882, 1022, 1178, 1211, 1244, 1384]
+    line [987, 1126, 1287, 1364, 523, 365]
+    line [601, 539, 543, 541, 1021, 1139]
+```
+
+| Spice | Trend | Key Insight |
+|-------|-------|-------------|
+| 🌿 **Turmeric** | 📈 Steady upward growth | Cornerstone product — consistent demand throughout |
+| 🌶️ **Red Chilli** | 📈 Peak Feb → 📉 Sharp crash Mar–Apr | Summer spoilage; needs cold storage & reduced summer stocking |
+| 🌱 **Dhaniya** | 📉 Dips till Jan → 📈 Strong rise Mar–Apr | Seasonal/festive demand surge — opportunity for promotions |
+| 🫙 **Cumin** | Flat with **spike in January** | Likely a bulk/festival order — investigate to replicate |
+| 🫙 **Ajwain & Fennel** | Consistently lowest | Reassess inventory levels; candidate for bundling |
+
+---
+
 
