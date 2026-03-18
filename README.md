@@ -183,5 +183,35 @@ xychart-beta
 | 🫙 **Ajwain & Fennel** | Consistently lowest | Reassess inventory levels; candidate for bundling |
 
 ---
+## 🚛 Transport Analysis
+
+```mermaid
+flowchart LR
+    A[📦 High Turmeric Sales] -->|strongest driver\ncorr = 0.52| T[🚛 Transport Cost ₹]
+    B[🌶️ Red Chilli Sales] -->|moderate driver\ncorr = 0.34| T
+    C[🌱 Dhaniya Sales] -->|moderate driver\ncorr = 0.35| T
+    D[🫙 Cumin · Ajwain · Fennel] -->|near zero / weak| T
+
+    T --> S[📊 Key Statistics]
+    S --> S1["Mean: ₹102.96/day"]
+    S --> S2["Median: ₹105.50/day"]
+    S --> S3["Range: ₹0 – ₹331"]
+    S --> S4["Highest Month: March 🔺"]
+
+    style T fill:#f59e0b,color:#fff
+    style S fill:#1d3557,color:#fff
+```
+
+**Transport cost pattern by month:**
+
+| Month | Observation |
+|-------|------------|
+| Nov | Elevated — high season activity |
+| Dec–Jan | Moderate |
+| Feb | Rising trend begins |
+| **Mar** | **Highest transport cost** — operational inefficiency at peak |
+| Apr | Slight decline |
+
+---
 
 
