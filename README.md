@@ -274,3 +274,23 @@ flowchart TD
 | ![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=flat) | Heatmaps, regression plots |
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) | Line charts, bar charts, pie charts |
 | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) | Notebook execution & sharing |
+
+---
+
+## 📌 Conclusion
+
+| Challenge | Root Cause | Proposed Fix |
+|-----------|-----------|--------------|
+| Overdependence on 2 spices | No active diversification strategy | Bundling, promotions, demand tracking |
+| Fluctuating transport costs | Ad-hoc logistics with no contracts | Fixed-rate contracts + route optimisation |
+| Summer spoilage of Red Chilli | No cold chain, poor stock planning | Cold storage + seasonal demand forecasting |
+
+> **By implementing these data-driven strategies, Mahak Spices can reduce spoilage losses, stabilise logistics expenses, and diversify its revenue base — building a foundation for long-term, sustainable growth.**
+
+---
+
+<div align="center">
+
+**Indian Institute of Information Technology Lucknow ,MSc Economics and Management Program**  
+
+</div>
