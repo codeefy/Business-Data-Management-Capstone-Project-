@@ -47,4 +47,25 @@ This project applies **data analytics** to study these inefficiencies and propos
 - **Python (Pandas, Matplotlib, Seaborn):** Statistical analysis, advanced visualizations  
 
 ---
+## 📈 Key Findings  
 
+1. **Product Performance**  
+   - Turmeric (42.4%) & Red Chilli (33.3%) dominate revenue.  
+   - Dhaniya (15.5%) shows potential for growth.  
+   - Cumin, Ajwain & Fennel contribute minimally.  
+
+2. **Seasonal Trends**  
+   - Turmeric: Steady growth, consistent demand.  
+   - Red Chilli: Strong until February, sharp decline in March–April due to spoilage.  
+   - Dhaniya: Seasonal surge in March–April.  
+   - Cumin: One-time spike in January (bulk order).  
+
+3. **Transport Cost Analysis**  
+   - Positive correlation between sales & transport cost (esp. Turmeric).  
+   - March saw **highest transport cost**, indicating inefficiencies.  
+   - Costs fluctuate widely (₹0 – ₹331).  
+
+4. **Profitability Trends**  
+   - November → Highest profit (₹1,00,000+).  
+   - December → Lowest due to seasonal dip.  
+   - Recovery in Jan–Feb; decline again in Mar–Apr due to spoilage  
